@@ -9,4 +9,6 @@ I speak Korean, English... oh are we talking about a different kind of language?
 - PHP
 - and I am learning C
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ichbinderwooj)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ichbinderwooj)](https://github.com/ichbinderwooj/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichbinderwooj)](https://github.com/ichbinderwooj/github-readme-stats)
